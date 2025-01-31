@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Learning how to code, im good at 3d modeling (and making beamng.drive mods)
+[![My Skills](https://skillicons.dev/icons?i=blender,html,css,)](https://skillicons.dev)
 <!--
 **lordlichi2006/lordlichi2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
